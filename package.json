@@ -1,7 +1,6 @@
 {
   "name": "vuln-test",
   "version": "1.0.0",
-  "scripts": { "test": "exit 1" },
   "dependencies": {
     "axios": "0.21.1",
     "lodash": "4.17.15"
